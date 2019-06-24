@@ -1,2 +1,2 @@
-# Mini-Whatsapp
+# LAN-Whatsapp
 A Multithreaded Chat Application
